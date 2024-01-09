@@ -27,3 +27,7 @@ Example usage HTTPIE
     http --auth your_username:your_password POST https://IP-OR-Domain:9200/your-index/ Content-Type:application/json < example.json
 
 
+References
+------------
+
+https://httpie.io/
